@@ -198,4 +198,4 @@ Contributions are welcome! Please submit PRs.
 
 ---
 
-Made with 🖤 by Pliny the Prompter
+Made with 🖤 by wg community
